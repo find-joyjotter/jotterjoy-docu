@@ -43,10 +43,9 @@ Currently on available in MacOS devices with M1 chips or higher. Not available o
 1. In Obsidian, press  ``` `Command + p` ``` to open the search bar.
 
 2. Type 'Settings' and open it
-
-<img width="1018" alt="Screenshot 2024-06-09 at 11 20 07 AM" src="https://github.com/find-joyjotter/jotterjoy-docu/assets/172158723/e377182b-23df-47f2-88ad-ae3eb4da9c58">
-
+   
 3. Navigate to the 'Community plugins' and click 'turn on Community plugins'
+<img width="1018" alt="Screenshot 2024-06-09 at 11 20 07 AM" src="https://github.com/find-joyjotter/jotterjoy-docu/assets/172158723/e377182b-23df-47f2-88ad-ae3eb4da9c58">
 
 4. Enable "JotterJoy plugin"
 
