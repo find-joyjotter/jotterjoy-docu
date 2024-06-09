@@ -6,7 +6,7 @@ The JotterJoy plugin helps enhance your Obsidian experience by providing advance
 
 You will need Obsidian installed in your system for this to work. You can also download Obsidian [here](https://obsidian.md/).
 
-Currently on available in MacOS devices with M1 chips or higher. Not available on Windows as of now.
+Currently only available in MacOS devices with M1 chips or higher. Not available on Windows OS as of now.
 
 # Installation
 
