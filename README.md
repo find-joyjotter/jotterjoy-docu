@@ -67,13 +67,15 @@ Windows version still WIP.
 
 # Using JotterJoy
 
+![image](https://github.com/find-joyjotter/jotterjoy-docu/assets/172158723/146eebe6-9e5c-4533-89b8-6ce17c91472e)
+
 ### Proofreading Your Notes
 
 1. In Obsidian, open the note you want to proofread.
 
 2. Press ``` `Command + p` ```, type "Jotterjoy", and select "Proofread note".
 
-3. Wait for the note to be processed, it usually takes a few seconds. Then your note will be corrected.
+3. Wait for the note to be processed, it usually takes a few seconds. Then your note will be corrected!
 
 ### Generating Tags 
 
