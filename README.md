@@ -47,22 +47,23 @@ Currently on available in MacOS devices with M1 chips or higher. Not available o
 3. Navigate to the 'Community plugins' and click 'turn on Community plugins'
 <img width="1018" alt="Screenshot 2024-06-09 at 11 20 07 AM" src="https://github.com/find-joyjotter/jotterjoy-docu/assets/172158723/e377182b-23df-47f2-88ad-ae3eb4da9c58">
 
-4. Enable "JotterJoy plugin"
+4. Under "Installed plugins, enable "JotterJoy"
 
 <img width="1017" alt="Screenshot 2024-06-09 at 11 21 09 AM" src="https://github.com/find-joyjotter/jotterjoy-docu/assets/172158723/d062c6c5-bc25-4200-88c2-18733ee40a68">
 
 ### Step 4: Configure JotterJoy
 
-1. Go to the Jotterjoy plugin settings.
+1. After enabling "JotterJoy", this Community plugins section should show up. Click on this to go to the Jotterjoy plugin settings.
+   
+![image](https://github.com/find-joyjotter/jotterjoy-docu/assets/172158723/8b42f2d0-fb10-4b7c-bdd1-69369dac3ac2)
 
 2. Leave all settings as default except for the API key field.
 
-3. To get an API key, visit [Grog](https://console.groq.com/keys),  create an account, and generate a key.
+3. To get an API key, visit [Grog](https://console.groq.com/keys),  create an account, and generate a key. Copy the API key.
 
 4. Paste the API key into the Jotterjoy plugin settings in Obsidian.
 
 <img width="1021" alt="Screenshot 2024-06-09 at 11 21 48 AM" src="https://github.com/find-joyjotter/jotterjoy-docu/assets/172158723/dfda29b7-1dfb-4863-93ab-8f9d361adb8f">
-
 
 ### Step 5: Download and Run the Server
 
@@ -74,11 +75,13 @@ Currently on available in MacOS devices with M1 chips or higher. Not available o
  
 3. Extract the ```.zip``` file, and a new file will appear in your downloads folder.
 
-5. Open the file. If you get an error when opening the file, hold ```Ctrl```, double-click it, and select "Open with Terminal".
+5. Open the file. If you get an error when opening the file, right-click the file and select "Open with" and select "Terminal".
 
 6. Wait for the server to start. If you see a message indicating it is running, everything is set up correctly.
 
 ![Screenshot 2024-06-09 at 11 35 57 AM](https://github.com/find-joyjotter/jotterjoy-docu/assets/172158723/27be4e15-7240-41c0-b87f-76f1717f5e40)
+
+This means the plugin is now ready for use.
 
 # Using JotterJoy
 
@@ -121,4 +124,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 ## Acknowledgments
 
 * Support the project by buying us [coffee](https://buy.stripe.com/eVa9D6dS92y50KseV6)
-
