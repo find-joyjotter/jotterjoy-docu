@@ -111,7 +111,7 @@ This means the plugin is now ready for use.
 
 3. In the section LMM Model, you can select Grow Llama3 70 billion model instead of the 8 billion model for improved accuracy in proofreading and tag generation. 
 
-Do note that the 70 billion model is limited on Grog and may take longer to process.
+Do note that the 70 billion model is limited on Groq and may take longer to process.
 
 ## Conclusion
 
