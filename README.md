@@ -6,8 +6,7 @@ The JotterJoy plugin helps enhance your Obsidian experience by providing advance
 
 You will need Obsidian installed in your system for this to work. You can also download Obsidian [here](https://obsidian.md/).
 
-Currently on available in MacOS devices with M1 chips or higher.
-Windows version still WIP.
+Currently on available in MacOS devices with M1 chips or higher. Not available on Windows as of now.
 
 # Installation
 
@@ -18,18 +17,24 @@ Windows version still WIP.
 2. Click on "Releases" located on the right side, that can also be found [here](https://github.com/elevenyellow/JotterJoy-Obsidian-Plugin/releases/tag/v0.0.2)
 
 3. Download the latest version ```.zip``` file
+   
+<img width="1465" alt="Screenshot 2024-06-09 at 10 27 08 AM" src="https://github.com/find-joyjotter/jotterjoy-docu/assets/172158723/93e3eefd-434e-4a51-8ab4-d9ec546c11ad">
 
 ### Step 2: Install the Plugin
 
 1. Extract the downloaded ```.zip``` file on your Download folder
 
 2. Open Obsidian and right-click on any of your notes and click on "Reveal in Finder" to open the root directory of your Obsidian Vault
+   
+<img width="304" alt="Screenshot 2024-06-09 at 11 16 57 AM" src="https://github.com/find-joyjotter/jotterjoy-docu/assets/172158723/4e8c330b-e7b4-4a11-b627-21ea58b8bd73">
 
-3. Open the ```.obsidian``` folder.
+3. Open the ```.obsidian``` folder. If the folder cannot be found, press ```Command + Shift + .```. to reveal hidden folder.
 
-4. Create a ```plugins``` folder if you don't have one yet.
+<img width="753" alt="Screenshot 2024-06-09 at 11 18 29 AM (1)" src="https://github.com/find-joyjotter/jotterjoy-docu/assets/172158723/14f05069-b653-452e-ad8e-4b9424555e26">
 
-5. Drag and drop the downloaded and extracted JotterJoy folder in to the ```plugins``` folder.
+6. Create a ```plugins``` folder if you don't have one yet.
+
+7. Drag and drop the downloaded and extracted JotterJoy folder in to the ```plugins``` folder.
 
 ### Step 3: Enable the Plugin
 
@@ -37,9 +42,13 @@ Windows version still WIP.
 
 2. Type 'Settings' and open it
 
+<img width="1018" alt="Screenshot 2024-06-09 at 11 20 07 AM" src="https://github.com/find-joyjotter/jotterjoy-docu/assets/172158723/e377182b-23df-47f2-88ad-ae3eb4da9c58">
+
 3. Navigate to the 'Community plugins' and click 'turn on Community plugins'
 
 4. Enable "JotterJoy plugin"
+
+<img width="1017" alt="Screenshot 2024-06-09 at 11 21 09 AM" src="https://github.com/find-joyjotter/jotterjoy-docu/assets/172158723/d062c6c5-bc25-4200-88c2-18733ee40a68">
 
 ### Step 4: Configure JotterJoy
 
@@ -50,6 +59,9 @@ Windows version still WIP.
 3. To get an API key, visit [Grog](https://console.groq.com/keys),  create an account, and generate a key.
 
 4. Paste the API key into the Jotterjoy plugin settings in Obsidian.
+
+<img width="1021" alt="Screenshot 2024-06-09 at 11 21 48 AM" src="https://github.com/find-joyjotter/jotterjoy-docu/assets/172158723/dfda29b7-1dfb-4863-93ab-8f9d361adb8f">
+
 
 ### Step 5: Download and Run the Server
 
@@ -64,6 +76,8 @@ Windows version still WIP.
 5. Open the file. If you get an error when opening the file, hold ```Ctrl```, double-click it, and select "Open with Terminal".
 
 6. Wait for the server to start. If you see a message indicating it is running, everything is set up correctly.
+
+![Screenshot 2024-06-09 at 11 35 57 AM](https://github.com/find-joyjotter/jotterjoy-docu/assets/172158723/27be4e15-7240-41c0-b87f-76f1717f5e40)
 
 # Using JotterJoy
 
