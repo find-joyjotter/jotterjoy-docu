@@ -17,7 +17,7 @@ Windows version still WIP.
 
 2. Click on "Releases" located on the right side, that can also be found [here](https://github.com/elevenyellow/JotterJoy-Obsidian-Plugin/releases/tag/v0.0.2)
 
-3. Download the latest version  ```.zip``` file
+3. Download the latest version ```.zip``` file
 
 ### Step 2: Install the Plugin
 
@@ -33,7 +33,7 @@ Windows version still WIP.
 
 ### Step 3: Enable the Plugin
 
-1. In Obsidian, press  ```Command + p``` to open the search bar.
+1. In Obsidian, press  ``` `Command + p` ``` to open the search bar.
 
 2. Type 'Settings' and open it
 
@@ -50,8 +50,6 @@ Windows version still WIP.
 3. To get an API key, visit [Grog](https://console.groq.com/keys),  create an account, and generate a key.
 
 4. Paste the API key into the Jotterjoy plugin settings in Obsidian.
- 
-Explain what these tests test and why
 
 ### Step 5: Download and Run the Server
 
@@ -71,7 +69,7 @@ Explain what these tests test and why
 
 1. In Obsidian, open the note you want to proofread.
 
-2. Press ```Command + P```, type "Jotterjoy", and select "Proofread note".
+2. Press ````Command + P````, type "Jotterjoy", and select "Proofread note".
 
 3. Wait for the note to be processed, it usually takes a few seconds. Then your note will be corrected.
 
@@ -79,10 +77,9 @@ Explain what these tests test and why
 
 1. Open the note that you want to generate tags.
 
-2. Press ```Command + P```, type "Jotterjoy", and select "Generate tags in front matter".
+2. Press ````Command + P````, type "Jotterjoy", and select "Generate tags in front matter".
 
 3. The plugin will analyze the document and add relevant tags.
-
 
 ### Advanced Configuration 
 
@@ -97,7 +94,6 @@ Do note that the 70 billion model is limited on Grog and may take longer to proc
 ## Conclusion
 
 With the Jotterjoy plugin, you can significantly enhance your note-taking experience in Obsidian by leveraging advanced AI features. Follow the steps outlined in this README to install, configure, and start using the plugin effectively. For more information, visit the [Jotterjoy repository](https://github.com/elevenyellow/JotterJoy-Obsidian-Plugin) on GitHub.
-
 
 ## License
 
