@@ -53,15 +53,17 @@ Windows version still WIP.
 
 ### Step 5: Download and Run the Server
 
-1. Return to the Jotterjoy repository on GitHub.
+1. Go (Jotterjoy)[https://github.com/elevenyellow/JotterJoy] repository on GitHub.
 
 2. Download the server ```.zip``` file from the releases section.
+
+![image](https://github.com/find-joyjotter/jotterjoy-docu/assets/172158723/42fb217d-cf96-45d5-99c6-8c446324348f)
  
 3. Extract the ```.zip``` file, and a new file will appear in your downloads folder.
 
-4. Open the file. If you get an error when opening the file, hold ```Ctrl```, double-click it, and select "Open with Terminal".
+5. Open the file. If you get an error when opening the file, hold ```Ctrl```, double-click it, and select "Open with Terminal".
 
-5. Wait for the server to start. If you see a message indicating it is running, everything is set up correctly.
+6. Wait for the server to start. If you see a message indicating it is running, everything is set up correctly.
 
 # Using JotterJoy
 
@@ -69,7 +71,7 @@ Windows version still WIP.
 
 1. In Obsidian, open the note you want to proofread.
 
-2. Press ````Command + P````, type "Jotterjoy", and select "Proofread note".
+2. Press ``` `Command + p` ```, type "Jotterjoy", and select "Proofread note".
 
 3. Wait for the note to be processed, it usually takes a few seconds. Then your note will be corrected.
 
@@ -77,13 +79,13 @@ Windows version still WIP.
 
 1. Open the note that you want to generate tags.
 
-2. Press ````Command + P````, type "Jotterjoy", and select "Generate tags in front matter".
+2. Press ``` `Command + p` ```, type "Jotterjoy", and select "Generate tags in front matter".
 
 3. The plugin will analyze the document and add relevant tags.
 
 ### Advanced Configuration 
 
-1. Open the Jotterjoy plugin settings by press  ```Command + p``` and typing Settings.
+1. Open the Jotterjoy plugin settings by press  ``` `Command + p` ``` and typing Settings.
 
 2. Under Community plugins, select JotterJoy
 
