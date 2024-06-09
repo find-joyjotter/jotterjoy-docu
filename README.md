@@ -34,7 +34,9 @@ Currently on available in MacOS devices with M1 chips or higher. Not available o
 
 6. Create a ```plugins``` folder if you don't have one yet.
 
-7. Drag and drop the downloaded and extracted JotterJoy folder in to the ```plugins``` folder.
+7. Drag and drop the downloaded and extracted ```release``` folder in to the ```plugins``` folder.
+
+<img width="915" alt="Screenshot 2024-06-09 at 11 49 33 AM" src="https://github.com/find-joyjotter/jotterjoy-docu/assets/172158723/3d8a3b46-30d7-4bbb-b302-61b34df6d090">
 
 ### Step 3: Enable the Plugin
 
