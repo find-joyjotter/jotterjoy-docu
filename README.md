@@ -67,7 +67,7 @@ Currently on available in MacOS devices with M1 chips or higher. Not available o
 
 ### Step 5: Download and Run the Server
 
-1. Go (Jotterjoy)[https://github.com/elevenyellow/JotterJoy] repository on GitHub.
+1. Go (JotterJoy)[https://github.com/elevenyellow/JotterJoy] repository on GitHub.
 
 2. Download the server ```.zip``` file from the releases section.
 
@@ -91,7 +91,7 @@ This means the plugin is now ready for use.
 
 1. In Obsidian, open the note you want to proofread.
 
-2. Press ``` `Command + p` ```, type "Jotterjoy", and select "Proofread note".
+2. Press ``` `Command + p` ```, type "JotterJoy", and select "Proofread note".
 
 3. Wait for the note to be processed, it usually takes a few seconds. Then your note will be corrected!
 
@@ -99,13 +99,13 @@ This means the plugin is now ready for use.
 
 1. Open the note that you want to generate tags.
 
-2. Press ``` `Command + p` ```, type "Jotterjoy", and select "Generate tags in front matter".
+2. Press ``` `Command + p` ```, type "JotterJoy", and select "Generate tags in front matter".
 
 3. The plugin will analyze the document and add relevant tags.
 
 ### Advanced Configuration 
 
-1. Open the Jotterjoy plugin settings by press  ``` `Command + p` ``` and typing Settings.
+1. Open the JotterJoy plugin settings by press  ``` `Command + p` ``` and typing Settings.
 
 2. Under Community plugins, select JotterJoy
 
@@ -115,7 +115,7 @@ Do note that the 70 billion model is limited on Groq and may take longer to proc
 
 ## Conclusion
 
-With the Jotterjoy plugin, you can significantly enhance your note-taking experience in Obsidian by leveraging advanced AI features. Follow the steps outlined in this README to install, configure, and start using the plugin effectively. For more information, visit the [Jotterjoy repository](https://github.com/elevenyellow/JotterJoy-Obsidian-Plugin) on GitHub.
+With the JotterJoy plugin, you can significantly enhance your note-taking experience in Obsidian by leveraging advanced AI features. Follow the steps outlined in this README to install, configure, and start using the plugin effectively. For more information, visit the [JotterJoy repository](https://github.com/elevenyellow/JotterJoy-Obsidian-Plugin) on GitHub.
 
 ## License
 
